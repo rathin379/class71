@@ -1,0 +1,61 @@
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+input {
+    background: grey
+}
+
+.css_own {
+    border: 1px solid orangered;
+    padding-left: 0;
+    padding-right: 0;
+    float: none;
+    text-align: center;
+}
+
+.css_own img {
+    width: 100%;
+}
+
+.css_own hr {
+    width: 230px;
+    color: deepskyblue;
+}
+
+.css_own h5,
+.css_own p {
+    margin-left: 20px;
+}
+.env_li{
+    margin-top: 13px;
+    margin-bottom: 13px;
+}
+.env_li h4{
+    border-bottom: 1px;
+}
+.env_li p{
+    margin-top: 10px;
+}
+.movie_h{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.movie_h i{
+    float: right;
+}
+.modal-content{
+    margin-top: 150px;
+}
